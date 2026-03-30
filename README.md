@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,16&height=250&text=Prince%20Kumar&fontSize=60&fontAlignY=35&desc=Software%20Engineer%20%7C%20Data%20Pipelines%20%7C%20ML%20Integration&descAlignY=55&descAlign=50&fontColor=ffffff">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=250&text=Prince%20Kumar&fontSize=60&fontAlignY=35&desc=Software%20Engineer%20%7C%20Data%20Pipelines%20%7C%20ML%20Integration&descAlignY=55&descAlign=50&fontColor=ffffff">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,16&height=250&text=Prince%20Kumar&fontSize=60&fontAlignY=35&desc=Software%20Engineer%20%7C%20Data%20Pipelines%20%7C%20ML%20Integration&descAlignY=55&descAlign=50&fontColor=ffffff" width="100%" alt="Header" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,16&height=250&text=Prince%20Kumar&fontSize=60&fontAlignY=35&desc=Software%20Engineer%20%7C%20Data%20Pipelines%20%7C%20ML%20Integration&descAlignY=55&descAlign=50&fontColor=ffffff&cacheBust=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=250&text=Prince%20Kumar&fontSize=60&fontAlignY=35&desc=Software%20Engineer%20%7C%20Data%20Pipelines%20%7C%20ML%20Integration&descAlignY=55&descAlign=50&fontColor=ffffff&cacheBust=1">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,16&height=250&text=Prince%20Kumar&fontSize=60&fontAlignY=35&desc=Software%20Engineer%20%7C%20Data%20Pipelines%20%7C%20ML%20Integration&descAlignY=55&descAlign=50&fontColor=ffffff&cacheBust=1" width="100%" alt="Header" />
   </picture>
 </div>
 
