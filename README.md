@@ -100,36 +100,28 @@ I am a Software Engineer and MCA student at Chandigarh University, specializing 
 ### 📈 GitHub Activity & Analytics
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Princekrcoder&show_icons=true&hide_border=true&border_radius=10&theme=tokyonight">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Princekrcoder&show_icons=true&hide_border=true&border_radius=10&theme=default">
-    <img src="https://github-readme-stats.vercel.app/api?username=Princekrcoder&show_icons=true&hide_border=true&border_radius=10&theme=tokyonight" height="190" alt="GitHub Stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Princekrcoder&layout=compact&hide_border=true&border_radius=10&theme=tokyonight">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Princekrcoder&layout=compact&hide_border=true&border_radius=10&theme=default">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Princekrcoder&layout=compact&hide_border=true&border_radius=10&theme=tokyonight" height="190" alt="Top Languages" />
-  </picture>
+  <a href="https://github.com/Princekrcoder">
+    <img src="https://github-readme-stats.vercel.app/api?username=Princekrcoder&show_icons=true&hide_border=true&border_radius=10&theme=tokyonight&v=1" height="190" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Princekrcoder">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Princekrcoder&layout=compact&hide_border=true&border_radius=10&theme=tokyonight&v=1" height="190" alt="Top Languages" />
+  </a>
 </div>
 
 <br>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Princekrcoder&hide_border=true&border_radius=10&theme=tokyonight">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Princekrcoder&hide_border=true&border_radius=10&theme=default">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Princekrcoder&hide_border=true&border_radius=10&theme=tokyonight" alt="GitHub Streak" />
-  </picture>
+  <a href="https://github.com/Princekrcoder">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Princekrcoder&hide_border=true&border_radius=10&theme=tokyonight&v=1" alt="GitHub Streak" />
+  </a>
 </div>
 
 <br>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Princekrcoder&theme=tokyo-night&custom_title=Contribution%20Graph&hide_border=true&area=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Princekrcoder&theme=default&custom_title=Contribution%20Graph&hide_border=true&area=true">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Princekrcoder&theme=tokyo-night&custom_title=Contribution%20Graph&hide_border=true&area=true" width="95%" alt="Activity Graph" />
-  </picture>
+  <a href="https://github.com/Princekrcoder">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Princekrcoder&theme=tokyo-night&custom_title=Contribution%20Graph&hide_border=true&area=true&v=1" width="95%" alt="Activity Graph" />
+  </a>
 </div>
 
 <br>
