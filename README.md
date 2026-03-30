@@ -101,10 +101,10 @@ I am a Software Engineer and MCA student at Chandigarh University, specializing 
 
 <div align="center">
   <a href="https://github.com/Princekrcoder">
-    <img src="https://github-readme-stats.vercel.app/api?username=Princekrcoder&show_icons=true&hide_border=true&border_radius=10&theme=tokyonight&v=1" height="190" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Princekrcoder&show_icons=true&hide_border=true&border_radius=10&theme=tokyonight&v=2" height="190" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Princekrcoder">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Princekrcoder&layout=compact&hide_border=true&border_radius=10&theme=tokyonight&v=1" height="190" alt="Top Languages" />
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Princekrcoder&layout=compact&hide_border=true&border_radius=10&theme=tokyonight&v=2" height="190" alt="Top Languages" />
   </a>
 </div>
 
