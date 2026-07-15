@@ -72,11 +72,6 @@ I am a Software Engineer and MCA student at Chandigarh University, specializing 
 
 ### 🚀 Key Projects & Open Source
 
-#### [CLEWS-OGCore ETL Pipeline (GSoC Target Theme) ↗️](https://github.com/Princekrcoder/clews-ogcore-etl-pipeline) 
-*Tech Stack: Python, Pandas, Pytest, JSON Schema*  
-- Architected a config-driven **ETL pipeline** that transforms CLEWS simulation data into structured OG-Core JSON inputs.
-- Built modular processing blocks (Extractor, Validator, Mapper, Transformer) with robust error hierarchies and mathematical convergence loops.
-- Ensured production quality with strict schema enforcement and extensive `pytest` test coverage.
 
 #### [HealthBridge_AI Platform ↗️](https://health-bridge-ai.vercel.app/)
 *Tech Stack: Next.js, Node.js, scikit-learn, PostgreSQL*  
