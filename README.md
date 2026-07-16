@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <a href="https://princefolio-iota.vercel.app/" target="_blank">
+  <a href="https://princekrcoder.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=Globe&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/princekrcoder/" target="_blank">
