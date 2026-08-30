@@ -1,138 +1,140 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,16&height=200&section=header&text=Prince%20Kumar&fontSize=50&fontAlignY=38&desc=Software%20Engineer%20%7C%20Data%20Pipelines%20%7C%20ML%20Integration&descAlignY=55&descAlign=50">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&height=200&section=header&text=Prince%20Kumar&fontSize=50&fontAlignY=38&desc=Software%20Engineer%20%7C%20Data%20Pipelines%20%7C%20ML%20Integration&descAlignY=55&descAlign=50">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,16&height=200&section=header&text=Prince%20Kumar&fontSize=50&fontAlignY=38&desc=Software%20Engineer%20%7C%20Data%20Pipelines%20%7C%20ML%20Integration&descAlignY=55&descAlign=50" width="100%" alt="Header" />
-  </picture>
-</div>
 
-<div align="center">
-  <a href="https://princekrcoder.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=Globe&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/princekrcoder/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:princekrcoder@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/Princekrcoder" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+# Prince Kumar
+
+**Full-Stack Developer · AI/ML Developer · Open Source Enthusiast**
+
+Full-stack developer building AI-powered web applications with JavaScript and Python.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://princekrcoder.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Princekrcoder)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/princekrcoder)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:princekr2840@gmail.com)
+
 </div>
 
 <br>
 
+## About Me
+
+I'm a full-stack developer working on my MCA at Chandigarh University (2025–2027), after finishing my BCA in 2025. Most of my day-to-day is React, Next.js, Node.js, and Express, but lately I've been spending more time on the AI side: wiring LLMs into real applications and building RAG pipelines that actually change what the app can do. Based in Chandigarh, India.
+
+### Current Focus
+
+- Full-stack web development
+- AI-powered applications
+- Machine learning with Python
+- Generative AI, LLMs & RAG
+- Contributing to open source
+- Data Structures & Algorithms in C++
+
+<br>
+
+## Tech Stack
+
+**Languages:** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+**Frontend:** ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+**Backend:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-4B5563?style=flat-square)
+
+**Databases:** ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**AI / ML / GenAI:** ![Generative AI](https://img.shields.io/badge/Generative_AI-7C3AED?style=flat-square) ![LLM Integration](https://img.shields.io/badge/LLM_Integration-7C3AED?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-7C3AED?style=flat-square) ![AI Application Development](https://img.shields.io/badge/AI_Application_Development-7C3AED?style=flat-square) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-7C3AED?style=flat-square)
+
+**Tools:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Familiar With:** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-4B5563?style=flat-square) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+
+<br>
+
+## Featured Project
+
+### HealthBridge AI
+**Full-Stack Developer & Team Lead, Code_Nexus**
+
+**The problem.** A citizen managing their own medical history needs something different from what an ASHA worker, a doctor, or an admin needs. Most healthcare tools aren't built to flex across all four roles at once.
+
+**The solution.** HealthBridge AI is a role-based platform for medical-history management and AI-assisted symptom analysis, with dedicated workflows for citizens, ASHA workers, doctors, and admins, plus support for multilingual use.
+
+**Technology:** Next.js · Node.js · Express.js · PostgreSQL · Prisma · Firebase · Generative AI · LLMs · RAG
+
+**My role**
+
+- Led the team (Code_Nexus) building the platform end-to-end
+- Built full-stack functionality across all four user roles
+- Designed and implemented REST APIs
+- Integrated generative AI and LLM components with RAG-based retrieval
+- Built the dashboards and multilingual workflow layer
+
+**Recognition**
+
+- Developed for **Build for Bharat 2026**, a national innovation challenge
+- Selected for **India AI Impact 2026**, an AI-focused innovation and impact initiative
+
+<!-- Add a live demo link and/or public repository link here once available -->
+
+<br>
+
+## Other Projects
+
+### MarketMind AI
+Web Developer · Private client project<br>
+Tech: React.js · Node.js · Express.js · MongoDB
+
+Built the frontend and backend for an AI-powered client web application. Private repository, so no public link is available.
+
+### Gupta Events
+Web Developer<br>
+Tech: React.js · Node.js · Express.js · MongoDB
+
+Full-stack website built and deployed for an events business.
+
+[Visit site →](https://guptaevents.netlify.app/)
+
+### PG Our Home
+Web Developer<br>
+Tech: React.js · Express.js · MongoDB
+
+Full-stack listing platform for PG and shared-housing accommodation.
+
+[Visit site →](https://pgourhome.com/)
+
+<br>
+
+## Open Source
+
+Recently started contributing to open source. Right now that means reading real-world codebases, learning how larger projects are structured, and working toward pull requests that actually add something, not just changes to pad a contribution graph.
+
+<br>
+
+## Achievements
+
+**Build for Bharat 2026.** Built HealthBridge AI, an AI-powered healthcare platform, for this national innovation challenge.
+
+**India AI Impact 2026.** HealthBridge AI was selected for this AI-focused innovation and impact initiative.
+
+<br>
+
+## GitHub Activity
+
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=7AA2F7&center=true&vCenter=true&width=550&lines=Architecting+Scalable+Backend+Systems...;Building+Production-Grade+ETL+Pipelines...;Integrating+Machine+Learning+Models...;Passionate+About+Open+Source+Contributions...">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=3B82F6&center=true&vCenter=true&width=550&lines=Architecting+Scalable+Backend+Systems...;Building+Production-Grade+ETL+Pipelines...;Integrating+Machine+Learning+Models...;Passionate+About+Open+Source+Contributions...">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=7AA2F7&center=true&vCenter=true&width=550&lines=Architecting+Scalable+Backend+Systems...;Building+Production-Grade+ETL+Pipelines...;Integrating+Machine+Learning+Models...;Passionate+About+Open+Source+Contributions..." alt="Typing SVG" />
-  </picture>
-</div>
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Princekrcoder&layout=compact&theme=tokyonight&hide_border=true&hide_title=true" alt="Prince's most-used languages" width="55%" />
 
-### 👨‍💻 Professional Summary
-
-I am a Software Engineer and MCA student at Chandigarh University, specializing in **full-stack web development, intelligent data pipelines, and machine learning integrations**. With a strong foundation in Data Structures and Algorithms (150+ challenges solved), I focus on writing clean, maintainable code and architecting systems that solve complex, real-world problems.
-
-- 🌍 **Current Focus:** Building **HealthBridge_AI** (Health-Tech) and scaling **Nexus_Studio** (Web Agency).
-- 🎯 **Aspirations:** Actively contributing to open-source software, targeting **Google Summer of Code (GSoC)**.
-- 📫 **Reach out to me for:** Backend Architecture, Data Engineering, API Development, and Open Source Collaborations.
-
----
-
-### 🛠️ Technical Expertise
-
-**Languages:** 
-<br>
-<img src="https://skillicons.dev/icons?i=js,ts,py,cpp,html,css" alt="languages" />
-
-**Frontend & Backend:** 
-<br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express" alt="web frameworks" />
-
-**AI & Machine Learning:** 
-<br>
-<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch" alt="ai and ml" />&nbsp;
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" style="vertical-align: top;" />&nbsp;
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" style="vertical-align: top;" />
-
-**Data & Infrastructure:** 
-<br>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,github,linux" alt="data and infra" />
-
-<br>
-
-**Core Competencies:**  
-> `Data Structures & Algorithms (150+)` • `ETL Pipelines` • `System Architecture` • `Predictive Modeling` • `RESTful APIs`
-
----
-
-### 🚀 Key Projects & Open Source
-
-
-#### [HealthBridge_AI Platform ↗️](https://health-bridge-ai.vercel.app/)
-*Tech Stack: Next.js, Node.js, scikit-learn, PostgreSQL*  
-- Engineered a full-stack health technology platform offering real-time disease prediction leveraging data-driven trained models.
-- Constructed a secure ETL data workflow for symptom ingestion, precise feature extraction, and high-confidence classification via REST APIs.
-
-#### [Nexus_Studio ↗️](https://codenexusstudio.vercel.app/)
-*Tech Stack: React, Express.js, PostgreSQL*  
-- Founded a web engineering startup delivering high-performance, responsive applications tailored to B2B client requirements.
-- Managed end-to-end development lifecycles from concept architecture to cloud deployment and ongoing maintenance.
-
----
-
-### 🏆 Milestones & Achievements
-
-- **Hackathons:** 
-  - 🥇 **AI Fest 2026:** Integrated an AI diagnostic classification engine into HealthBridge_AI.
-  - 🏅 **Build for Bharat 2026:** Developed and delivered a comprehensive full-stack healthcare prototype.
-  - ⏱️ **TechnoMania 2.0:** Engineered the *Bicycle Hub* e-commerce platform within a strict 24-hour sprint.
-- **Certifications:** Deep Learning & Artificial Intelligence via **Infosys Springboard**.
-- **Problem Solving:** Honed algorithmic logic by successfully conquering **150+ DSA challenges**.
-
----
-
-### 📈 GitHub Activity & Analytics
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Princekrcoder&show_icons=true&hide_border=true&border_radius=10&theme=tokyonight">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Princekrcoder&show_icons=true&hide_border=true&border_radius=10&theme=default">
-    <img src="https://github-readme-stats.vercel.app/api?username=Princekrcoder&show_icons=true&hide_border=true&border_radius=10&theme=tokyonight" height="190" alt="GitHub Stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Princekrcoder&layout=compact&hide_border=true&border_radius=10&theme=tokyonight">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Princekrcoder&layout=compact&hide_border=true&border_radius=10&theme=default">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Princekrcoder&layout=compact&hide_border=true&border_radius=10&theme=tokyonight" height="190" alt="Top Languages" />
-  </picture>
-</div>
-
-<br>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Princekrcoder&hide_border=true&border_radius=10&theme=tokyonight">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Princekrcoder&hide_border=true&border_radius=10&theme=default">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Princekrcoder&hide_border=true&border_radius=10&theme=tokyonight" alt="GitHub Streak" />
-  </picture>
-</div>
-
-<br>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Princekrcoder&theme=tokyo-night&custom_title=Contribution%20Graph&hide_border=true&area=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Princekrcoder&theme=default&custom_title=Contribution%20Graph&hide_border=true&area=true">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Princekrcoder&theme=tokyo-night&custom_title=Contribution%20Graph&hide_border=true&area=true" width="95%" alt="Activity Graph" />
-  </picture>
 </div>
 
 <br>
 
 <div align="center">
-  <p><i>Building the foundations for tomorrow's open-source ecosystem.</i></p>
+
+## Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://princekrcoder.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Princekrcoder)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/princekrcoder)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:princekr2840@gmail.com)
+
+Happy to talk full-stack architecture, RAG pipelines, or open source.
+
 </div>
