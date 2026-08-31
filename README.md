@@ -120,7 +120,9 @@ Recently started contributing to open source. Right now that means reading real-
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Princekrcoder&layout=compact&theme=tokyonight&hide_border=true&hide_title=true" alt="Prince's most-used languages" width="55%" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Princekrcoder&layout=compact&theme=tokyonight&hide_border=true&hide_title=true"
+     alt="Prince's most-used languages"
+     width="55%" />
 
 </div>
 
